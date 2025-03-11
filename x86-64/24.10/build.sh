@@ -43,11 +43,12 @@ PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 
-PACKAGES="$PACKAGES luci-i18n-openvpn-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-snmpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-alist-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-ipsec-vpnserver-manyusers-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
 
 # 判断是否需要编译 Docker 插件
 if [ "$INCLUDE_DOCKER" = "yes" ]; then
