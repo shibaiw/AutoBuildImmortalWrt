@@ -47,7 +47,7 @@ PACKAGES="$PACKAGES luci-i18n-snmpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-alist-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-ipsec-vpnserver-manyusers-zh-cn"
+
 
 
 
