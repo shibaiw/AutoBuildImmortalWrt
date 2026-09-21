@@ -59,7 +59,7 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-snmpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
